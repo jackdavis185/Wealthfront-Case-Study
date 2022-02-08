@@ -1,1 +1,11 @@
 # Wealthfront-Case-Study
+
+![Wealthfront Logo](Wealthfront-Logo.png)
+
+## Overview
+
+Wealthfront was incorporated on January 5, 2007, and founded by Andy Rachleff and Dan Carroll in Palo Alto, California. Andy Rachleff, co-founder of the VC firm Benchmark Capital, was enjoying his retirement teaching technology entrepreneurship at Stanford Graduate School of Business, funding cancer research projects with the Damon Runyon Cancer Research Foundation, and serving as Vice Chairman of the University of Pennsylvania's endowment investment committee. At Stanford, many of Andy's students would come to him looking for investment advice, but he realized he couldn't recommend the services he used because the minimums were too high. At UPenn, Andy realized successfully-managed endowments still relied on outdated and archaic tools and processes such as spreadsheets and manual calculations. After reflecting on these two realizations he arrived at the conclusion that "software could make investing easier and better for more people".
+
+Around the same time, Dan Carroll was visiting his parents who had just been hit hard by the 2008 financial crisis. As a former trader, Dan was helping his parents assess their financials when he came across a statement from their financial advisor. Dan was disgusted at what he saw, but he understood the game.  Financial advisors make 90% of their revenue from the top 20% of their clients, so people like Dan's parents are not getting the attention they pay for. Dan realized most people don't have access to good financial advice, so he started to build a prototype solution. This prototype caught the attention of Andy Rachleff, and the two were united under their mission "to help democratize access to sophisticated financial advice". Andy and Dan agreed software was the key to achieving their mission.
+
+Wealthfront started its journey with funding from VC firms such as Benchmark Capital, DAG Venutures, and Index Ventures, but has also received funding from individuals and hedge funds, namely Marc Andreessen, Ben Horowitz, and Tiger Global. On January 26, 2022, UBS acquired Wealthfront for $1.4 billion. Wealthfront currently manages over $28 billion for over 470,000 clients.
